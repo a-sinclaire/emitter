@@ -1,3 +1,14 @@
+# Sam Laderoute
+# Emitter Project
+# Apr 22 2021
+#
+# Create fully customizable emitters
+#
+# pip install numpy
+# pip install pygame
+# pip install pygame_widgets
+#
+
 import pygame
 from pygame.locals import *
 from emitter import *
