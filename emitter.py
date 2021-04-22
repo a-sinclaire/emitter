@@ -63,7 +63,7 @@ class Particle:
 
 
 class Emitter:
-    def __init__(self, screen, x, y, n_particles, color, lifespan=100, radius=10, max_r=np.inf, min_r=0, shrink_rate=0.01, density=1, friction=1, forces=[]):
+    def __init__(self, screen, x, y, n_particles=100, color=(255,255,255), lifespan=100, radius=10, max_r=np.inf, min_r=0, shrink_rate=0.01, density=1, friction=1, forces=[]):
         self.screen = screen
         self.x = x
         self.y = y
