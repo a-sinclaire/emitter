@@ -1,4 +1,4 @@
-# Sam Laderoute
+# Amelia Sinclaire
 # Emitter Project
 # Apr 22 2021
 #
